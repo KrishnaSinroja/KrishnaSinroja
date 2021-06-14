@@ -48,8 +48,10 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasinroja&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /> <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=krishnasinroja&show_icons=true&locale=en" alt="krishnasinroja" /></p></p><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasinroja&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /> 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinroja&" alt="krishnasinroja" /></p>
+<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=krishnasinroja&show_icons=true&locale=en" alt="krishnasinroja" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinroja&" alt="krishnasinroja" />
 
 <p align="center"><h4 align="center">Show Your ❤️ by Staring My Repos!!</h4> </p>
