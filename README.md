@@ -48,7 +48,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasinroja&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /></p><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krishnasinroja&show_icons=true&locale=en" alt="krishnasinroja" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasinroja&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /> <img src="https://github-readme-stats.vercel.app/api?username=krishnasinroja&show_icons=true&locale=en" alt="krishnasinroja" /></p><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinroja&" alt="krishnasinroja" /></p>
 
