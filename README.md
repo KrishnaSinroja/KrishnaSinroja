@@ -11,8 +11,8 @@
 
 
 <h1 align="center">Hello There !! 👋, I'm Krishna Sinroja 👨‍💻</h1>
-<h4 align="center">Passionate undergraduate student at [Dharamsinh Desai University](https://www.ddu.ac.in/) </h4> 
-  <h4 align="center">Mobile Development Team Member at [Developer Student Clubs DDU](https://www.dscddu.com/)</h4><br>
+<h4 align="center">Passionate undergraduate student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
+  <h4 align="center">Mobile Development Team Member at <a href="https://www.dscddu.com/">Developer Student Clubs DDU</a></h4><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasinroja&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasinroja" /> </p>
 
